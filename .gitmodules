@@ -1,6 +1,6 @@
 [submodule "pips2"]
-    path = pips2
-    url = https://github.com/aharley/pips2.git
+	path = pips2
+	url = https://github.com/aharley/pips2.git
 
 [submodule "co-tracker"]
     path = co-tracker
