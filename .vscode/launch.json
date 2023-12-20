@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "/Users/ilonademler/miniconda3/envs/pytorch3d/bin/python",
+            "justMyCode": true
+        }
+    ]
+}
