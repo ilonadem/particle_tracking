@@ -1,1 +1,15 @@
 data/
+co-tracker/assets/
+co-tracker/saved_videos/
+*.pyc
+__pycache__/
+.DS_Store
+data/
+*.mp4
+.env/
+.venv/
+.vscode/
+.idea/
+*.egg-info/
+build/
+dist/
